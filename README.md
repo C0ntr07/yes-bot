@@ -65,7 +65,15 @@ You will need:
 
 ***The Application***
 
-Coming soon
+![alt text](https://github.com/maxkung101/yes-bot/blob/master/preview_EN.png)
+
+Press "Yes" to hear a voice saying "Yes." (This is Captain Falcon's voice from Super Smash Bros Melee, whic is owned by Nintendo)
+
+Optional:
+
+![alt text](https://github.com/maxkung101/yes-bot/blob/master/preview_FR.png) ![alt text](https://github.com/maxkung101/yes-bot/blob/master/preview_SP.png)
+
+You can also make a French or Spanish version of the application. Just edit yesbot.py via IDLE. Instructions are included in the file's code. You may also need to replace the "yes" voice with "yes" in the appropriate language. It is a wav file.
 
 Disclaimer
 ----------
