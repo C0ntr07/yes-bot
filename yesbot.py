@@ -12,7 +12,7 @@ app.resizable(False, False)
 sounds = pygame.mixer
 sounds.init()
 
-yes_en = sounds.Sound("wav/c-falcon_YES.wav") # You can replace this sound with any other voice saying "yes."
+yes_en = sounds.Sound("wav/c-falcon_YES.wav") # You can replace this sound with any other voice saying "yes." Be sure to replace the "c-falcon_YES.wav" in this line with the new recorded sound file that you saved in the wav folder.
                                               # For French speaking telemarketers, say "oui."
                                               # For Spanish speaking telemarketers, say "si."
 

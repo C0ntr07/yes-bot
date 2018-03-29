@@ -32,7 +32,7 @@ Are you annoyed by telemarketers calling you on your phone? Do you wish you can 
 
 You will need:
 * Raspberry Pi
-* Raspberry Pi on switch
+* Raspberry Pi ON-switch
 * Computer Monitor with HDMI connectivity
 * HDMI cable
 * Wired computer keyboard
@@ -65,7 +65,27 @@ You will need:
 
 ***The Application***
 
-Coming soon
+![alt text](https://github.com/maxkung101/yes-bot/blob/master/preview_EN.png)
+
+Press "Yes" to hear a voice saying "Yes." (This is Captain Falcon's voice from Super Smash Bros Melee, which is owned by Nintendo)
+
+Optional:
+
+![alt text](https://github.com/maxkung101/yes-bot/blob/master/preview_FR.png) ![alt text](https://github.com/maxkung101/yes-bot/blob/master/preview_SP.png)
+
+You can also make a French or Spanish version of the application. Just edit yesbot.py via IDLE. Instructions are included as comments in the file's code. You may also need to replace the "yes" voice with "yes" in the appropriate language. It is a wav file.
+
+***Tormenting the Telemarketer***
+
+Wait for the telemarketer or scammer to call you while you have `yesbot.py` running. When you answer their call, turn on speaker mode on your phone. Hold the phone's microphone close to the external speaker, and use the program to answer "yes" to every question.
+
+Examples:
+
+Here is an example of how saying "yes" can annoy a telemarketer. [https://www.youtube.com/watch?v=33BCEPMGggU](https://www.youtube.com/watch?v=33BCEPMGggU)
+
+Also, here's an example of how to give robocalls a taste of their own medicine [https://www.youtube.com/watch?v=_EZZ-KfUbGQ](https://www.youtube.com/watch?v=_EZZ-KfUbGQ)
+
+Note: You must use this program only for scambaiting. Please do not use it to make calls, but to answer calls. Phone scams with robots are against the US law, but scambaiting should be completely legal.
 
 Disclaimer
 ----------
