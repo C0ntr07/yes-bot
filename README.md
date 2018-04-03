@@ -50,7 +50,7 @@ You will need:
 8. Change the directory to Documents. ```$ cd Documents```
 9. Clone the repo via git. ```$ git clone https://github.com/maxkung101/yes-bot``` Make sure you are connected to the internet first.
 10. Change the directory to yes-bot. ```$ cd yes-bot```
-11. Run the file yesbot.py. ```$ python yesbot.py``` or ```$ sh yesbot.py```
+11. Run the file yesbot.py. ```$ python3 yesbot.py``` or ```$ sh yesbot.py```
 
 ***Setup on PC/Mac***
 

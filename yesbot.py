@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 from tkinter import *
 from tkinter.font import Font
 import pygame.mixer
