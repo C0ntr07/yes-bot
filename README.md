@@ -22,7 +22,7 @@ $ git clone https://github.com/maxkung101/yes-bot
 
 Run
 ---
-```$ python yesbot.py``` or ```$ sh yesbot.py```
+```$ python yesbot.py```
 
 Instructions
 ------------
