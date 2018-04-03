@@ -23,12 +23,13 @@ $ git clone https://github.com/maxkung101/yes-bot
 Run
 ---
 Linux/Unix
-
-```$ python3 yesbot.py```
-
+```
+$ python3 yesbot.py
+```
 PC/Mac
-
-```$ python yesbot.py```
+```
+$ python yesbot.py
+```
 
 Instructions
 ------------
