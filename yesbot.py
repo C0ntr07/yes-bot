@@ -6,6 +6,10 @@ import pygame.mixer
 def sayYes():
     yes_en.play()
 
+def shutdown():
+    sounds.stop()
+    app.destroy()
+
 app = Tk()
 app.title("Yes Bot")
 app.geometry('450x120+200+100')
@@ -26,5 +30,7 @@ lab.pack(side = TOP)
 btn = Button(app, text = "\"Yes\"", width = 10, command = sayYes, font = myFont) # French: Oui
                                                                                  # Spanish: Si
 btn.pack(side = TOP)
+
+app.protocol("WM_DELETE_WINDOW", shutdown)
 
 app.mainloop()
