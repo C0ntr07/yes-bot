@@ -17,9 +17,9 @@ yes_en = sounds.Sound("wav/c-falcon_YES.wav") # You can replace this sound with 
                                               # For French speaking telemarketers, say "oui."
                                               # For Spanish speaking telemarketers, say "si."
 
-myFont = Font(family="Arial", size = 12)
+myFont = Font(family = "Arial", size = 12)
 
-lab = Label(app, text='Annoy those telemarketers with one word.', height = 3, font = myFont) # French: Agiter les télévendeurs avec un mot.
+lab = Label(app, text = 'Annoy those telemarketers with one word.', height = 3, font = myFont) # French: Agiter les télévendeurs avec un mot.
                                                                                              # Spanish: Molestar a los agentes de telemercadeo con una sola palabra.
 lab.pack(side = TOP)
 
