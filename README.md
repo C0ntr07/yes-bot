@@ -92,7 +92,7 @@ Here is an example of how saying "yes" can annoy a telemarketer. [https://www.yo
 
 Also, here's an example of how to give robocalls a taste of their own medicine [https://www.youtube.com/watch?v=_EZZ-KfUbGQ](https://www.youtube.com/watch?v=_EZZ-KfUbGQ)
 
-Note: You must use this program only for scambaiting. Please do not use it to make calls, but to answer calls. Phone scams with robots are against the US law, but scambaiting should be completely legal.
+Note: You must use this program only to answer scam or telemarketing calls. Please do not use it to make calls. Phone scams with robots are against the US law.
 
 Credits
 -------
