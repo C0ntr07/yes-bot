@@ -94,6 +94,10 @@ Also, here's an example of how to give robocalls a taste of their own medicine [
 
 Note: You must use this program only for scambaiting. Please do not use it to make calls, but to answer calls. Phone scams with robots are against the US law, but scambaiting should be completely legal.
 
+Credits
+-------
+Programmed by Max Kung
+
 Disclaimer
 ----------
 I do not own the sound used in the repository.
