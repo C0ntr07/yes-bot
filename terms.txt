@@ -8,8 +8,8 @@ to read the user agreement before installing this repo.
 
    2. Legal Rights
 
-You must only use this software for scambaiting. This program was specifically made to pose as a
-victim to a scam, or to give robot telemarketers a taste of their own medicine.
+You must only use this software to answer scam or telemarketing calls. This program was specifically
+made for scambaiting, or to give robot telemarketers a taste of their own medicine.
 
    3. Liability
 
