@@ -6,7 +6,7 @@ Introduction
 
 Requirements
 ------------
-Python 3.6.4 or newer
+Python 2.7.0 or newer
 ```
 $ pip install pygame
 ```
