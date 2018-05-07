@@ -6,6 +6,9 @@ import pygame.mixer
 def sayYes():
     yes_s.play()
 
+def key(event):
+    yes_s.play()
+
 def shutdown():
     sounds.stop()
     app.destroy()
@@ -43,5 +46,6 @@ btn = Button(
     font = myFont
 )
 btn.pack(side = TOP)
+app.bind("<Key>", key)
 app.protocol("WM_DELETE_WINDOW", shutdown)
 app.mainloop()

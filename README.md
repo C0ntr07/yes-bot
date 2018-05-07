@@ -74,7 +74,7 @@ You will need:
 
 ![alt text](https://github.com/maxkung101/yes-bot/blob/master/preview_EN.png)
 
-Press "Yes" to hear a voice saying "Yes." (This is Captain Falcon's voice from Super Smash Bros Melee, which is owned by Nintendo)
+Click "Yes" or press any key on the keyboard to hear a voice saying "Yes." (This is Captain Falcon's voice from Super Smash Bros Melee, which is owned by Nintendo)
 
 Optional:
 
