@@ -7,7 +7,7 @@ def sayYes():
     yes_s.play()
 
 def key(event):
-    yes_s.play()
+    sayYes()
 
 def shutdown():
     sounds.stop()
